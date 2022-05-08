@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Cím</string>
+    <string name="account_type">Fiók típusa</string>
+    <string name="customer">Vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="product_description">Termék leírása.</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Here is some news</string>
+    <string name="subtitle_detail_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices congue rutrum. Phasellus elementum ipsum ac convallis aliquam. Suspendisse eleifend eros a enim faucibus mollis. Nunc placerat, est vitae vestibulum blandit, dolor diam fringilla tellus, eu euismod mauris neque at neque.</string>
+    <string name="shopping_cart">Kosárba</string>
+    <string name="guest_login">Belépés vendégként</string>
+    <string name="to_cart">Kosárba</string>
+    <string name="delete">Törlés</string>
+
+    <string-array name="phone_labels">
+        <item>Otthon</item>
+        <item>Munkahely</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string-array name="shopping_item_names">
+        <item>Mustard</item>
+        <item>Muffins</item>
+        <item>Kék Textil</item>
+        <item>Feketa Textil</item>
+        <item>Csillámpóni</item>
+        <item>Szürke Textil</item>
+        <item>Ez nem is narancs</item>
+        <item>:D :) :(</item>
+        <item>P!nk</item>
+        <item>Hófehér Textil</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>Mustár szín, vagy sárga, kinek mi.</item>
+        <item>Éhes vagy?</item>
+        <item>Mint a tenger</item>
+        <item>FEKETE</item>
+        <item>Csillámpónik</item>
+        <item>Kicsit unalmas</item>
+        <item>Vigyél haza</item>
+        <item>Ilyet ki vesz?</item>
+        <item>Bleh</item>
+        <item>#FFFFFF</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>1.5</item>
+        <item>5</item>
+        <item>3</item>
+        <item>4.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>2.5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/mustar</item>
+        <item>@drawable/muffin</item>
+        <item>@drawable/blue</item>
+        <item>@drawable/black</item>
+        <item>@drawable/unicorn</item>
+        <item>@drawable/grey</item>
+        <item>@drawable/orange</item>
+        <item>@drawable/emoji</item>
+        <item>@drawable/pink</item>
+        <item>@drawable/white</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>1000 Peso</item>
+        <item>1500 Peso</item>
+        <item>5000 Peso</item>
+        <item>3000 Peso</item>
+        <item>1800 Peso</item>
+        <item>7000 Peso</item>
+        <item>2000 Peso</item>
+        <item>3000 Peso</item>
+        <item>1500 Peso</item>
+        <item>3000 Peso</item>
+    </array>
+</resources>
